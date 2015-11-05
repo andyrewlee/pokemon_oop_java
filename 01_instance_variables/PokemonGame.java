@@ -1,3 +1,4 @@
+// program is a class that has a method named main
 public class PokemonGame
 {
   public static void main(String[] args)
