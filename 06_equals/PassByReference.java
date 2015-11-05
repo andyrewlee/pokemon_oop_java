@@ -58,5 +58,14 @@ public class PassByReference
     {
       System.out.println("sanJose and silicionValley are NOT equal");
     }
+
+    if(sanJose.equals(siliconValley))
+    {
+      System.out.println("sanJose and siliconValley are equal");
+    }
+    else
+    {
+      System.out.println("sanJose and silicionValley are NOT equal");
+    }
   }
 }
