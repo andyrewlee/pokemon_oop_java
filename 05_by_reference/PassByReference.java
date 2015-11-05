@@ -9,7 +9,7 @@ public class PassByReference
     System.out.println(y);
 
     // java Strings are immutable, so reassignment causes variable to point
-    // to a new instance of String rather than changing the alue of String
+    // to a new instance of String rather than changing the value of String
     String foo = "hello";
     String bar = foo;
     foo = "goodbye";
